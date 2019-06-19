@@ -1,0 +1,136 @@
+
+body
+{
+  background-image: url('sunset.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+h1
+{
+  margin-left: 50px;
+  margin-top: 50px;
+  color: white;
+  font-size: 4em;
+  font-family: "Luna";
+
+}
+
+h2
+{
+  margin-left: 50px;
+  color: white;
+  font-size: 2em;
+  font-family: "Luna";
+  padding-right: 25px;
+}
+
+#Download
+{
+  margin-left: 50px;
+
+}
+
+.parallax
+{
+    /* The image used */
+    background-image: url("sunset.jpg");
+
+    /* Set a specific height */
+    height: 00px;;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#intro
+{
+    padding-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
+
+#intro2
+{
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display:flex;
+}
+
+
+#welcome
+{
+  width: 320px;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+
+#personal
+{
+  font-family: fantasy;
+
+
+}
+
+p
+{
+    margin-left: 50px;
+    color: white;
+    font-size: 2em;
+    font-family: "Luna";
+}
+
+ul
+{
+  margin-left: 50px;
+  color: white;
+  font-size: 2em;
+  font-family: "Luna";
+
+}
+
+li
+{
+  padding-bottom: 20px;
+}
+
+
+.content
+{
+  display: flex;
+}
+
+.content > div
+{
+  flex: 1;
+  padding-left: 50px;
+  padding-bottom: 200px;
+}
+
+#course-images
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 250px;
+}
+
+#closing
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display:flex;
+  padding-bottom: 75px;
+}
